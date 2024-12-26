@@ -1,0 +1,5 @@
+langchain==0.3.13
+langchain_community==0.3.13
+faiss==1.7.2
+sentence_transformers==3.3.1
+transformers==4.44.2
